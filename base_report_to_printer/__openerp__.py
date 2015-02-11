@@ -31,6 +31,7 @@
     'license': 'AGPL-3',
     "depends": ['base',
                 'report',
+                'calendar',
                 ],
     'data': [
         'security/security.xml',
